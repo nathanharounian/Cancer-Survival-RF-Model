@@ -23,7 +23,7 @@ library(skimr)
 Now, let's load both of our clinical and mrna gene data.
 ```{r}
 # change DATA_DIR to wherever the data is located
-DATA_DIR <- "../../Stat_154/Discussion"  
+DATA_DIR <- "..."  
 
 # fread() is a lot faster than read_csv(), so use it, especially for large datasets
 
