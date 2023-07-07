@@ -6,7 +6,5 @@ Using data from The Cancer Genome Atlas (TCGA), conducted EDA to find a good cla
 ## Repository Directory
 `cancer-survival-genes-rf-model.rmd` : Cancer Survival Genes Random Forest Model Code R Markdown file.
 
-`cancer-survival-genes-rf-model.html` : Cancer Survival Genes Random Forest Model Code HTML file.
-
 `cancer-survival-genes-rf-model.pdf` : Cancer Survival Genes Random Forest Model Report.
 `
